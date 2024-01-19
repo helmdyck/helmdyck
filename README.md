@@ -1,6 +1,6 @@
 ### Hi there 👋, Helmuth Dyck
 #### Fullstack Developer
-![Fullstack Developer]([https://media.licdn.com/dms/image/D4D16AQHOHcrKnQ_haw/profile-displaybackgroundimage-shrink_350_1400/0/1704391025229?e=1710979200&v=beta&t=tmfCXGQ7Rnr9C3NjKDTHYuB3eftq37O6csfHOi8e_LA](https://github.com/helmdyck/helmdyck/blob/main/hdbanner.jpg))
+![Fullstack Developer](https://github.com/helmdyck/helmdyck/blob/main/hdbanner.jpg)
 
 Graphic Designer with passion for technology, I studied web development to create attractive and innovative digital experiences. I am looking to work in a company that allows me to develop my skills and knowledge in web development to create digital experiences that positively impact people's lives.
 
