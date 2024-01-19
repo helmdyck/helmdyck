@@ -1,10 +1,12 @@
-### Hi there 👋, Helmuth Dyck
-#### Fullstack Developer
 ![Fullstack Developer](https://github.com/helmdyck/helmdyck/blob/main/hdbanner.jpg)
+
+### Hi there 👋, I'm Helmuth Dyck
 
 Graphic Designer with passion for technology, I studied web development to create attractive and innovative digital experiences. I am looking to work in a company that allows me to develop my skills and knowledge in web development to create digital experiences that positively impact people's lives.
 
-Skills: REACT / JS / HTML / CSS
+## Skills and experience
+* 🖥️ HTML, CSS, JS
+* ⚛️ React.JS
 
 - 🔭 I’m currently working on building my portfolio. 
 - 🌱 I’m currently learning Next.JS 
