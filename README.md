@@ -1,5 +1,3 @@
-![Fullstack Developer](https://github.com/helmdyck/helmdyck/blob/main/hdbanner.jpg)
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wavw hello" width="30" height="30">, I'm Helmuth Dyck
 [![linkedin-profile](https://img.shields.io/badge/Helmuth%20Dyck-LinkedIn?style=flat&logo=LinkedIn&labelColor=%230072b1&color=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhelmuth-dyck%2F
 )](https://www.linkedin.com/in/helmuth-dyck/)
