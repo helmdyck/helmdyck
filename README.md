@@ -3,7 +3,7 @@
 )](https://www.linkedin.com/in/helmuth-dyck/)
 
 Fullstack Developer,
-I'm a graphic designer turned to developer merging my visual habilities with attractive and innovative digital projects and experiences. I am looking to work in a company that allows me to develop my skills and knowledge in web development to create digital experiences that positively impact people's lives.
+I'm a graphic designer turned developer to merge my visual skills with engaging and innovative digital projects. I am looking to work in a company that allows me to develop my skills and knowledge in web development to create digital experiences that positively impact people's lives.
 
 ## Skills and experience
 * 🖥️ HTML, CSS, JS
