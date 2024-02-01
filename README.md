@@ -12,9 +12,9 @@ I'm a graphic designer turned developer to merge my visual skills with engaging 
 * 🚀 Entrepreneur.
 * 🪁 Continuous learning.
 ##
-* Visual Merchandiser | Jun 2013 - Feb 2020.
 * Graphic designer | Jan 2022 - Sep 2023.
-
+* Visual Merchandiser | Jun 2013 - Feb 2020.
+##
 - 🔭 I’m currently working on building my portfolio. 
 - 🌱 I’m currently learning Next.JS 
 - 📫 How to reach me: helmuth.dyck@gmail.com 
