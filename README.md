@@ -5,9 +5,15 @@
 Fullstack Developer,
 I'm a graphic designer turned developer to merge my visual skills with engaging and innovative digital projects. I am looking to work in a company that allows me to develop my skills and knowledge in web development to create digital experiences that positively impact people's lives.
 
-## Skills and experience
-* 🖥️ HTML, CSS, JS
-* ⚛️ React.JS
+## Skills and experience.
+* 🖥️ Graphic Design.
+* 💡 Agile Methodologies.
+* 💪🏽 Teamwork.
+* 🚀 Entrepreneur.
+* 🪁 Continuous learning.
+##
+* Visual Merchandiser | Jun 2013 - Feb 2020.
+* Graphic designer | Jan 2022 - Sep 2023.
 
 - 🔭 I’m currently working on building my portfolio. 
 - 🌱 I’m currently learning Next.JS 
@@ -15,7 +21,7 @@ I'm a graphic designer turned developer to merge my visual skills with engaging 
 
 ## 🧰Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.JS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.JS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator Logo" width="50" height="50">
 
 ----
 
